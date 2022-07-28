@@ -1,0 +1,15 @@
+/*   
+	Theme Name:        Theme for Elementor
+	Description:       Tema totalmente em branco, pronto para ser construído utilizando o page builder do Elementor 
+	Author:            Ricardo Josino
+	Author URI:        https://ricardojosino.com.br
+	Version:           1.0
+	License:           GNU General Public License v3 or later.
+	License URI:       https://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+html, body {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
