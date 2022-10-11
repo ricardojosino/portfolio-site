@@ -1,0 +1,350 @@
+.elementor-kit-168{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-249c4ef7:#4054B2;--e-global-color-8cb078c:#23A455;--e-global-color-2d52b743:#000;--e-global-color-32a97b1d:#FFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;color:#666666;font-family:"Poppins", Sans-serif;font-size:18px;line-height:32px;}.elementor-kit-168 a{color:#666666;}.elementor-kit-168 h1{font-size:46px;}.elementor-kit-168 h2{font-size:32px;}.elementor-kit-168 h3{font-size:24px;font-weight:bold;}.elementor-kit-168 h4{font-size:20px;}.elementor-kit-168 h5{font-size:18px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-168 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-kit-168{font-size:16px;line-height:28px;}.elementor-kit-168 h1{font-size:30px;}.elementor-kit-168 h2{font-size:24px;}.elementor-kit-168 h3{font-size:20px;}.elementor-kit-168 h4{font-size:18px;}.elementor-kit-168 h5{font-size:16px;}.elementor-kit-168 h6{font-size:14px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-168{font-size:16px;line-height:26px;}.elementor-kit-168 h1{font-size:20px;}.elementor-kit-168 h2{font-size:20px;}.elementor-kit-168 h3{font-size:16px;}.elementor-kit-168 h4{font-size:14px;}.elementor-kit-168 h5{font-size:12px;}.elementor-kit-168 h6{font-size:10px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start custom CSS */.margem-zero p
+{
+	margin: 0;
+}
+
+.margem-zero h1
+{
+	margin: 0;
+}
+
+.margem-zero h2
+{
+	margin: 0;
+}
+
+
+.margem-zero h3
+{
+	margin: 0;
+}
+
+
+.margem-zero h4
+{
+	margin: 0;
+}
+
+
+.margem-zero h5
+{
+	margin: 0;
+}
+
+
+.margem-zero2 p:first-child
+{
+	margin-top: 0;
+}
+
+
+.margem-zero2 p:last-child
+{
+	margin-bottom: 0;
+}
+
+
+.elementor-pagination
+{
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: normal !important;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    
+    color: inherit;
+    box-sizing: border-box;
+    
+    
+}
+
+
+.elementor-pagination a
+{
+    color: inherit;
+}
+
+
+.elementor-pagination .page-numbers
+{
+    background-color: #EEE;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+
+
+.elementor-pagination .page-numbers:hover
+{
+    background-color: #1CC6FF;
+    color: #FFF;
+}
+
+
+.elementor-pagination .page-numbers.current
+{
+    background-color: #1CC6FF;
+    color: #FFF;
+}
+
+
+.elementor-pagination span.page-numbers.prev
+{
+    display:none;
+}
+
+
+.elementor-pagination span.page-numbers.next
+{
+    display:none;
+}
+
+.sidebar
+{
+    position: relative;
+    width: auto;
+    height: auto;
+    font-family: Poppins;
+    color: #0E586E;
+}
+
+.sidebar h5
+{
+	display: none;
+}
+
+
+.sidebar ul
+{
+    margin: 0;
+    padding: 0;
+		margin-top: 20px;
+    list-style: none;
+		display: none;
+}
+
+.sidebar-bot-clear
+{
+	display: none;
+}
+
+@media(min-width: 768px)
+{
+	.sidebar ul
+	{
+		display: block;
+	}
+	
+	.sidebar-bot-clear
+	{
+	display: block;
+	}
+	
+}
+
+.sidebar ul li
+{
+    font-weight: 300;
+    font-size: 16px;
+		color: #666666;
+		margin-top:5px;
+		margin-bottom: 5px;
+    
+    
+}
+
+
+@media(min-width: 768px)
+{
+    .sidebar ul li
+    {
+        font-size: 18px;
+    }
+}
+
+
+.sidebar ul li a
+{
+		display: block;
+    color: #666666;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.sidebar .current-cat a
+{
+	color: #1CC6FF !important;
+	font-weight: bold;
+}
+
+.woocommerce
+{
+	font-family: Roboto;
+}
+
+
+.woocommerce a
+{
+	color: inherit;
+}
+
+
+.woocommerce .button
+{
+	background-color: #e33c36 !important;
+	color: #FFF !important;
+}
+
+
+.woocommerce .coupon
+{
+	display: flex;
+	align-items: stretch;
+}
+
+
+.woocommerce .coupon .input-text
+{
+	width: 120px !important;
+}
+
+
+.woocommerce .input-text.qty.text
+{
+	border: 2px solid #000;	
+	height: 35px;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.woocommerce-notices-wrapper
+{
+    display: block !important;
+    font-family: Roboto;
+    
+    
+}
+
+.woocommerce-notices-wrapper .woocommerce-message
+{
+		padding-left: 25px;
+    padding-right: 25px;
+}
+
+.woocommerce-message::before
+{
+    color: #000;
+		display: none;
+
+}
+
+.woocommerce-notices-wrapper .woocommerce-message
+{
+    
+    border-top: 4px solid #e33c36;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.woocommerce-notices-wrapper .woocommerce-message .button.wc-forward
+{
+    order: 2;
+    background-color: #e33c36;
+    color: #FFF;
+}
+
+
+.woocommerce input
+{
+	border: 1px solid #000;
+	box-sizing: border-box;
+	padding-left: 5px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+
+.woocommerce .select2-selection__rendered
+{
+	border: 1px solid #000;
+	box-sizing: border-box;
+	
+}
+
+
+.woocommerce-info
+{
+	border-top: 4px solid #e33c36;
+}
+
+
+.woocommerce-MyAccount-navigation
+{
+	position: relative;
+	width: auto;
+	height: auto;
+}
+
+
+.woocommerce-MyAccount-navigation ul
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	list-style-type: none;
+}
+
+.woocommerce-MyAccount-navigation ul li
+{
+	position: relative;
+	width: auto;
+	height: auto;
+	display: flex;
+	height: 40px;
+	border-bottom: 1px solid #EEE;
+
+}
+
+.woocommerce-MyAccount-navigation ul li:hover
+{
+	background-color: #e33c36;
+	color: #FFF;
+}
+
+
+
+.woocommerce-MyAccount-navigation ul li a
+{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	padding-left: 7px;
+	padding-right: 7px;
+	box-sizing: border-box;
+	
+}
+
+
+.jet-listing-not-found
+{
+	font-family: Roboto;
+	text-align: left;
+}
+
+
+.studio-widget-filter-sidebar
+{
+    font-family: Poppins;
+}
+
+
+.studio-widget-filter-sidebar-desktop-itens-title
+{
+    color: #1CC6FF;
+}/* End custom CSS */
