@@ -1,0 +1,43 @@
+.elementor-613 .elementor-element.elementor-element-6a05416a .elementor-repeater-item-273f54a.jet-parallax-section__layout .jet-parallax-section__image{background-size:auto;}.elementor-613 .elementor-element.elementor-element-c14a128{text-align:center;}.elementor-613 .elementor-element.elementor-element-c14a128 .elementor-heading-title{color:var( --e-global-color-f9b5cf5 );}.elementor-613 .elementor-element.elementor-element-535b45a{text-align:center;}.elementor-msie .elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio-item{width:calc( 100% / 3 );}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-post__thumbnail__link{padding-bottom:calc( 0.66 * 100% );}.elementor-613 .elementor-element.elementor-element-f8546a7:after{content:"0.66";position:absolute;color:transparent;}.elementor-613 .elementor-element.elementor-element-f8546a7{--grid-column-gap:20px;--grid-row-gap:20px;}.elementor-613 .elementor-element.elementor-element-f8546a7 a .elementor-portfolio-item__overlay{background-color:rgba(31, 38, 55, 0.8);}.elementor-613 .elementor-element.elementor-element-f8546a7 a .elementor-portfolio-item__title{color:#FFFFFF;}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio-item__title{font-size:24px;font-weight:bold;line-height:24px;}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio__filter{color:var( --e-global-color-a9b5631 );font-size:18px;font-weight:bold;}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio__filter:not(:last-child){margin-right:calc(10px/2);}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio__filter:not(:first-child){margin-left:calc(10px/2);}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio__filters{margin-bottom:50px;}.elementor-613 .elementor-element.elementor-element-6a05416a{padding:60px 0px 60px 0px;}@media(max-width:1024px){.elementor-msie .elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio-item{width:calc( 100% / 2 );}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio-item__title{font-size:20px;}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio__filter{font-size:16px;}.elementor-613 .elementor-element.elementor-element-6a05416a{padding:40px 0px 40px 0px;}}@media(max-width:767px){.elementor-msie .elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio-item{width:calc( 100% / 1 );}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio-item__title{font-size:16px;}.elementor-613 .elementor-element.elementor-element-f8546a7 .elementor-portfolio__filter{font-size:12px;}.elementor-613 .elementor-element.elementor-element-6a05416a{padding:25px 0px 25px 0px;}}/* Start custom CSS for portfolio, class: .elementor-element-f8546a7 */.elementor-portfolio__filter:first-child
+{
+    display:none;
+}
+
+.elementor-portfolio__filter
+{
+
+}
+
+.elementor-portfolio__filter.elementor-active
+{
+    background-color: #F99D22;
+    color: #FFF !important;
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}/* End custom CSS */
+/* Start custom CSS for portfolio, class: .elementor-element-f8546a7 */.elementor-portfolio__filter:first-child
+{
+    display:none;
+}
+
+.elementor-portfolio__filter
+{
+
+}
+
+.elementor-portfolio__filter.elementor-active
+{
+    background-color: #F99D22;
+    color: #FFF !important;
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}/* End custom CSS */
+/* Start custom CSS */.spw-header-portfolio .elementor-portfolio__filters
+{
+    background-color: #F2F3F4;
+    border-radius: 5px;
+}/* End custom CSS */

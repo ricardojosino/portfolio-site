@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfólios &#8211; TSS Energia Solar</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 12 Oct 2022 01:13:40 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>./../../wp-content/uploads/favicon.png</url>
+	<title>Portfólios &#8211; TSS Energia Solar</title>
+	<link>./../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Projeto 06</title>
+		<link>./../portfolio-06/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 19:56:10 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=studio-portfolio&#038;p=612</guid>
+
+					<description><![CDATA[Projeto instalado na cidade X (estado X), sendo utilizadas X placas solares na instalação, gerando X de potência de energia e economia de R$ X,00 para essa residência dentro de 1 ano.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Projeto 05</title>
+		<link>./../portfolio-05/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 19:55:26 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=studio-portfolio&#038;p=611</guid>
+
+					<description><![CDATA[Projeto instalado na cidade X (estado X), sendo utilizadas X placas solares na instalação, gerando X de potência de energia e economia de R$ X,00 para essa residência dentro de 1 ano.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Projeto 04</title>
+		<link>./../portfolio-04/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 19:55:21 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=studio-portfolio&#038;p=610</guid>
+
+					<description><![CDATA[Projeto instalado na cidade X (estado X), sendo utilizadas X placas solares na instalação, gerando X de potência de energia e economia de R$ X,00 para essa residência dentro de 1 ano.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Projeto 03</title>
+		<link>./../portfolio-03/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 19:55:14 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=studio-portfolio&#038;p=609</guid>
+
+					<description><![CDATA[Projeto instalado na cidade X (estado X), sendo utilizadas X placas solares na instalação, gerando X de potência de energia e economia de R$ X,00 para essa residência dentro de 1 ano.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Projeto 02</title>
+		<link>./../portfolio-02/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 19:55:11 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=studio-portfolio&#038;p=608</guid>
+
+					<description><![CDATA[Projeto instalado na cidade X (estado X), sendo utilizadas X placas solares na instalação, gerando X de potência de energia e economia de R$ X,00 para essa residência dentro de 1 ano.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Projeto 01</title>
+		<link>./../portfolio-01/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 19:47:11 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=studio-portfolio&#038;p=601</guid>
+
+					<description><![CDATA[Projeto instalado na cidade X (estado X), sendo utilizadas X placas solares na instalação, gerando X de potência de energia e economia de R$ X,00 para essa residência dentro de 1 ano.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
