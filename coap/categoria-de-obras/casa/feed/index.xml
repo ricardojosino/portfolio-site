@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Casa &#8211; COAP Construtora &amp; Incorporadora</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Oct 2022 00:19:38 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/favicon.png</url>
+	<title>Casa &#8211; COAP Construtora &amp; Incorporadora</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Casa Rua Hipódromo</title>
+		<link>./../../../catalogo-de-obras/casa-rua-hipodromo/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 22:42:55 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=spw-catalog-of-works&#038;p=690</guid>
+
+					<description><![CDATA[Conheça o empreendimento Imóvel residencial familiar, planejado e executado pela Coap Construtora. A Casa Rua Hipódromo foi entregue em novembro de 2019, possui 02 quartos, sala de TV e jantar, cozinha, lavanderia e 01 banheiro. Ficha Técnica: Área total construída: 57,67 m² Área total do terreno 373,76 m² Acabamentos com piso classe A Azulejo nas [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
