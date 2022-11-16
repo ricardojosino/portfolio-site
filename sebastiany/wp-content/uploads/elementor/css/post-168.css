@@ -1,0 +1,166 @@
+.elementor-kit-168{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-5e321ded:#4054B2;--e-global-color-3d4652a1:#23A455;--e-global-color-4a9ac3e2:#000;--e-global-color-522bc0c3:#FFF;--e-global-color-89bc2c1:#459D72;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;color:#343434;font-family:"Nunito", Sans-serif;font-size:18px;font-weight:normal;line-height:28px;}.elementor-kit-168 h1{color:#FFFFFF;font-family:"Nunito", Sans-serif;font-size:48px;font-weight:800;}.elementor-kit-168 h2{color:#343434;font-family:"Nunito", Sans-serif;font-size:36px;font-weight:800;}.elementor-kit-168 h3{color:#343434;font-family:"Nunito", Sans-serif;font-size:26px;font-weight:800;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-168 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-kit-168{font-size:16px;line-height:22px;}.elementor-kit-168 h1{font-size:32px;}.elementor-kit-168 h2{font-size:24px;}.elementor-kit-168 h3{font-size:22px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-168 h1{font-size:24px;}.elementor-kit-168 h2{font-size:22px;}.elementor-kit-168 h3{font-size:20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */*
+{
+    font-family: Nunito;
+}
+
+.margem-zero p
+{
+	margin: 0;
+}
+
+.margem-zero h1
+{
+	margin: 0;
+}
+
+.margem-zero h2
+{
+	margin: 0;
+}
+
+
+.margem-zero h3
+{
+	margin: 0;
+}
+
+
+.margem-zero h4
+{
+	margin: 0;
+}
+
+
+.margem-zero h5
+{
+	margin: 0;
+}
+
+
+.margem-zero2 p:first-child
+{
+	margin-top: 0;
+}
+
+
+.margem-zero2 p:last-child
+{
+	margin-bottom: 0;
+}
+
+
+.elementor-pagination
+{
+
+    font-size: 14px;
+    font-weight: normal !important;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    
+    color: inherit;
+    box-sizing: border-box;
+    
+    
+}
+
+
+.elementor-pagination a
+{
+    color: inherit;
+}
+
+
+.elementor-pagination .page-numbers
+{
+    background-color: #EEE;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+
+
+.elementor-pagination .page-numbers:hover
+{
+    background-color: #666;
+    color: #FFF;
+}
+
+
+.elementor-pagination .page-numbers.current
+{
+    background-color: #666;
+    color: #FFF;
+}
+
+
+.elementor-pagination span.page-numbers.prev
+{
+    display:none;
+}
+
+
+.elementor-pagination span.page-numbers.next
+{
+    display:none;
+}
+
+
+.studio-widget-filter-sidebar-mobile-btn
+{
+
+}
+
+
+.studio-widget-filter-sidebar-desktop-itens-title
+{
+    
+}
+
+@media(min-width: 1200px)
+{
+.spw-fale-conosco
+{
+    border-radius: 50px;
+    color: #FFF !important;
+    background-color: #459D72;
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+    margin-left: 30px !important;
+}
+
+.spw-fale-conosco a
+{
+    color: #FFF !important;
+}
+
+}
+
+
+.elementor-item-active
+{
+    
+}
+
+.spw-menu-fixo
+{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left:0;
+    z-index: 20;
+    display: none;
+}
+
+.spw-menu-fixo-edit
+{
+    position: relative;
+    display: block;
+}
+
+.spw-menu-fixo-none
+{
+    display:none;
+}/* End custom CSS */
