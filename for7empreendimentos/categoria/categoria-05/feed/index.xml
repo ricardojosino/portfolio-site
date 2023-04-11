@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Categoria 05 &#8211; For7 Empreendimentos</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 04 Jul 2019 08:16:46 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Post 02</title>
+		<link>./../../../post-02/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Sun, 07 Apr 2019 01:33:15 +0000</pubDate>
+				<category><![CDATA[Categoria 05]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=42</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget tincidunt felis. Sed at posuere purus, nec sollicitudin magna. Phasellus viverra sed quam ac volutpat. Phasellus mattis vulputate est ac porta. Nulla purus mi, ultrices sed risus eu, rutrum ornare nunc. Duis ut malesuada ex. Donec elementum egestas blandit. Integer faucibus, massa dapibus aliquam pellentesque, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

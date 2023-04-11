@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Loteamentos &#8211; For7 Empreendimentos</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Apr 2023 15:04:32 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>LOTEAMENTO INDUSTRIAL BODANESE</title>
+		<link>./../../../catalogo-de-obras/loteamento-industrial-bodanese/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 15:04:32 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=spw-catalog-of-works#038;p=811</guid>
+
+					<description><![CDATA[&#8211; O melhor investimento em condomínio industrial da região; &#8211; Às margens da rodovia SC 283, a 600m do novo contorno leste, ao lado do loteamento Bonense; &#8211; Na divisa das cidades de Chapecó e Guatambu. Terrenos amplos de 1, 2, 3 e até 4 mil metros quadrados; &#8211; Extremamente privilegiada por ter acesso a, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LOTEAMENTO SÃO VENDELINO</title>
+		<link>./../../../catalogo-de-obras/loteamento-sao-vendelino/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 14:44:06 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=spw-catalog-of-works#038;p=794</guid>
+
+					<description><![CDATA[&#8211; Aproximadamente 100 lotes de 360 m2 cada; &#8211; Avenida de 25m no seu escopo; &#8211; Mobilidade extremamente alta e diferenciada.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LOTEAMENTO POPULAR SÃO VENDELINO</title>
+		<link>./../../../catalogo-de-obras/loteamento-popular-sao-vendelino/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 14:39:47 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=spw-catalog-of-works#038;p=791</guid>
+
+					<description><![CDATA[&#8211; Loteamento popular; &#8211; Lotes de 250 m2; &#8211; Aproximadamente 250 lotes.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LOTEAMENTO DAS ROSAS</title>
+		<link>./../../../catalogo-de-obras/loteamento-das-rosas/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 14:35:05 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=spw-catalog-of-works#038;p=787</guid>
+
+					<description><![CDATA[&#8211; Loteamento averto de mesmo padrão do Condomínio das Rosas; &#8211; Apenas 56 lotes com metragem de 600m2 a 850 m2.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

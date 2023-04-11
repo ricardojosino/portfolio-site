@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Condomínios &#8211; For7 Empreendimentos</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 11 Apr 2023 14:30:58 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>CONDOMÍNIO DAS ROSAS</title>
+		<link>./../../../catalogo-de-obras/condominio-das-rosas/index.html</link>
+		
+		<dc:creator><![CDATA[Suporte]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 14:28:31 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=spw-catalog-of-works#038;p=781</guid>
+
+					<description><![CDATA[&#8211; Empreendimento único; &#8211; 96 lotes; &#8211; Região privilegiada de Chapecó, localizado no acesso a linha Faxinal dos Rosas, a 1km da Rua Araras e 800m da Rua Leopoldo Sander; &#8211; Condomínio de alto padrão com terrenos de, no mínimo, 600m2; &#8211; Salão de festas em meio a natureza; &#8211; Campo de futebol de areia, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
