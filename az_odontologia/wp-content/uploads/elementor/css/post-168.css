@@ -1,0 +1,121 @@
+.elementor-kit-168{--e-global-color-secondary:#1A1A1A;--e-global-color-primary:#8B7654;--e-global-color-text:#F2F2F2;--e-global-color-accent:#FFFFFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;color:#606062;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:normal;line-height:30px;}.elementor-kit-168 a{color:#606062;}.elementor-kit-168 h1{color:#FFFFFF;font-family:"Poppins", Sans-serif;font-size:44px;font-weight:bold;}.elementor-kit-168 h2{font-family:"Poppins", Sans-serif;font-size:36px;font-weight:bold;}.elementor-kit-168 h3{font-family:"Poppins", Sans-serif;font-size:24px;font-weight:bold;}.elementor-kit-168 h4{color:#606062;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:bold;text-transform:uppercase;letter-spacing:1px;}.elementor-kit-168 h5{font-family:"Poppins", Sans-serif;}.elementor-kit-168 h6{font-family:"Poppins", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-168 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-kit-168{font-size:15px;line-height:26px;}.elementor-kit-168 h1{font-size:32px;}.elementor-kit-168 h2{font-size:28px;}.elementor-kit-168 h3{font-size:20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-168{font-size:14px;line-height:22px;}.elementor-kit-168 h1{font-size:22px;}.elementor-kit-168 h2{font-size:24px;}.elementor-kit-168 h3{font-size:18px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */*
+{
+    font-family: Poppins;
+}
+
+.margem-zero p
+{
+	margin: 0;
+}
+
+.margem-zero h1
+{
+	margin: 0;
+}
+
+.margem-zero h2
+{
+	margin: 0;
+}
+
+
+.margem-zero h3
+{
+	margin: 0;
+}
+
+
+.margem-zero h4
+{
+	margin: 0;
+}
+
+
+.margem-zero h5
+{
+	margin: 0;
+}
+
+
+.margem-zero2 p:first-child
+{
+	margin-top: 0;
+}
+
+
+.margem-zero2 p:last-child
+{
+	margin-bottom: 0;
+}
+
+
+.elementor-pagination
+{
+
+    font-size: 14px;
+    font-weight: normal !important;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    
+    color: inherit;
+    box-sizing: border-box;
+    
+    
+}
+
+
+.elementor-pagination a
+{
+    color: inherit;
+}
+
+
+.elementor-pagination .page-numbers
+{
+    background-color: #EEE;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+
+
+.elementor-pagination .page-numbers:hover
+{
+    background-color: #666;
+    color: #FFF;
+}
+
+
+.elementor-pagination .page-numbers.current
+{
+    background-color: #666;
+    color: #FFF;
+}
+
+
+.elementor-pagination span.page-numbers.prev
+{
+    display:none;
+}
+
+
+.elementor-pagination span.page-numbers.next
+{
+    display:none;
+}
+
+
+.studio-widget-filter-sidebar-mobile-btn
+{
+    background-color: #55BFC6;
+    color: #FFF;
+}
+
+
+.studio-widget-filter-sidebar-desktop-itens-title
+{
+    color: #55BFC6;
+}/* End custom CSS */
