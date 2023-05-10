@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Categoria 05 &#8211; AZ Odontologia</title>
-	<atom:link href="https://websample.pages.dev/categoria/categoria-05/feed/" rel="self" type="application/rss+xml" />
-	<link>https://websample.pages.dev</link>
+	<atom:link href="https://websample.pages.dev/az_odontologia/categoria/categoria-05/feed/" rel="self" type="application/rss+xml" />
+	<link>https://websample.pages.dev/az_odontologia</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Jul 2019 08:16:46 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Post 02</title>
-		<link>https://websample.pages.dev/post-02/</link>
+		<link>https://websample.pages.dev/az_odontologia/post-02/</link>
 		
 		<dc:creator><![CDATA[Suporte]]></dc:creator>
 		<pubDate>Sun, 07 Apr 2019 01:33:15 +0000</pubDate>
