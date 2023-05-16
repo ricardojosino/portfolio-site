@@ -118,4 +118,9 @@
 .studio-widget-filter-sidebar-desktop-itens-title
 {
     color: #55BFC6;
+}
+
+.slideshow .swiper-slide-inner
+{
+    max-width: 1140px;
 }/* End custom CSS */
